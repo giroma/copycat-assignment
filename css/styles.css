@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+}
+
+.cat-p{
+  float: left;
+  width: 50%;
+  padding-left: 10px;
+  padding: 10px;
+
+}
+nav a{
+  float: left;
+  padding-left: 5px;
+  padding: 10px;
+
+}
+nav{
+  background-color: green;
+  clear: both;
+  overflow: hidden;
+}
+main{
+  width: 90%;
+  margin: 0 auto;
+
+}
+main section{
+  margin: 0;
+  padding: 10px;
+}
+
+header{
+  background-color: blue;
+}
+header img{
+  width: 60%;
+}
+header p{
+  text-align: center;
+  float: right;
+  font-size: 25px;
+  width: 40%;
+  padding: 10px;
+
+}
+.cats{
+  background-color: yellow;
+}
+.products img{
+  width: 30%;
+}
+.products{
+  background-color: grey;
+}
+.bottom{
+  background-color: blue;
+
+  text-align: center;
+
+}
+
+.bottom div{
+
+  text-align: center;
+  color: red;
+  padding: 10px;
+  width: 25%;
+  padding: 20px;
+  display: inline-block;
+
+
+}
+footer{
+  background-color: green;
+  overflow: hidden;
+}
+footer p{
+  padding: 0;
+  float: right;
+  padding: 10px;
+}
